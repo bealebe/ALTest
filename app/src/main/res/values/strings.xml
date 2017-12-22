@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ALTest</string>
+    <string name="encode">Encode</string>
+    <string name="decode">Decode</string>
 </resources>
